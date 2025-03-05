@@ -8,7 +8,7 @@
 - Passionate about exploring on AI/ML 
 ## 📊 Stats
 
-(![shashank7398's Stats](https://github-readme-stats.vercel.app/api?username=shashank7398&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+![shashank7398's Stats](https://github-readme-stats.vercel.app/api?username=shashank7398&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![shashank7398's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank7398&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
