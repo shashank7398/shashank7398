@@ -1,7 +1,7 @@
-![banner](resources/banner2.gif)
+![banner](/banner.png)
 
 
-## Hi, I am Shreyash Tripathi! 👨‍💻
+## Hi, I am Shashank S Mishra! 👨‍💻
 🚀 Software Engineer | Frontend Developer  
 - React.js, Three,js, Next,js 
 - DSA nerd
@@ -64,7 +64,7 @@ A computer science graduate, a developer, a traveller. I develop magical web app
 
 ## Socials
 
-[![Preview](/resources/linkedin.png)](https://www.linkedin.com/in/shashank-shekhar-mishra-66775322b/) &nbsp;
+[![Preview](/linkedin.png)](https://www.linkedin.com/in/shashank-shekhar-mishra-66775322b/) &nbsp;
 
 
 ## Visitor Count
