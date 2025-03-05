@@ -29,7 +29,7 @@ A computer science graduate, a developer, a traveller. I develop magical web app
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **SOftware Developer Intern**         | **Global Logic**                | **Software Technology**       | **2024-10 — 2025-01** |
+| **Software Developer Intern**         | **Global Logic**                | **Software Technology**       | **2024-10 — 2025-01** |
 
 ## 🎓 Education
 - Bachelor's Degree ( Computer science and Engineering) | Pranveer Singh Institute Of Technology, Kanpur ( 2020 - 2024)
@@ -38,7 +38,6 @@ A computer science graduate, a developer, a traveller. I develop magical web app
 ## 🛠 Programming languages I Ship In:
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/GoLang-21759B?style=for-the-badge&logo=GoLang&logoColor=white)
 ![](https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,11 +54,7 @@ A computer science graduate, a developer, a traveller. I develop magical web app
 ![](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
 
 
-## Blockchain's I have sailed ⚓️ on :
-![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
-![](https://img.shields.io/badge/TRON-DC0915?style=for-the-badge&logo=tron&logoColor=white)
-![](https://img.shields.io/badge/Concordium-121212?style=for-the-badge&logo=concordium&logoColor=white)
+
 
 
 ## Socials
