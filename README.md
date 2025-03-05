@@ -1,4 +1,4 @@
-![banner](/banner.png)
+![banner](/banner3.jpg)
 
 
 ## Hi, I am Shashank S Mishra! 👨‍💻
